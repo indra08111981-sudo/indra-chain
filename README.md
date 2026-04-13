@@ -16,3 +16,9 @@ Builder: indra_cfc | Crypto Fans Club
 - [Indra Flash Repo](https://github.com/indra08111981-sudo/indra-flash)  
 - [Canopy Repo](https://github.com/indra08111981-sudo/canopy)  
 - [Indra Chain Repo](https://github.com/indra08111981-sudo/indra-chain)
+
+## Roadmap
+- Q2 2026: Launch Indra Chain testnet with basic farming features  
+- Q3 2026: Integrate Canopy campaign tracking and reward distribution  
+- Q4 2026: Expand documentation and community contributions  
+- 2027: Mainnet exploration and broader adoption
