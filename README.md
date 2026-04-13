@@ -15,3 +15,4 @@ Builder: indra_cfc | Crypto Fans Club
 ## Links
 - [Indra Flash Repo](https://github.com/indra08111981-sudo/indra-flash)  
 - [Canopy Repo](https://github.com/indra08111981-sudo/canopy)
+[Indra Chain Repo](https://github.com/indra08111981-sudo/indra-chain)
