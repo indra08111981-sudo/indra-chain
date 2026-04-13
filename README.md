@@ -22,3 +22,10 @@ Builder: indra_cfc | Crypto Fans Club
 - Q3 2026: Integrate Canopy campaign tracking and reward distribution  
 - Q4 2026: Expand documentation and community contributions  
 - 2027: Mainnet exploration and broader adoption
+
+## Contributing
+We welcome contributions from the community and CFC team members.  
+- Fork this repository  
+- Create a new branch for your changes  
+- Submit a pull request with clear description  
+- Discuss improvements in Issues tab
