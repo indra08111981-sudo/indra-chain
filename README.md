@@ -22,6 +22,7 @@ Builder: indra_cfc | Crypto Fans Club
 - Q3 2026: Integrate Canopy campaign tracking, farming points, and progressive autonomy (shared security → sovereign L1 transition)  
 - Q4 2026: Expand documentation, contracts, and open community contributions in sync with Canopy ecosystem and liquidity solutions  
 - 2027: Explore sovereign L1 transition, multi-chain integration (Solana, NEAR, BNB), validator testing, and scalability improvements
+
 *This roadmap is aligned with Canopy Network milestones to ensure compatibility and ecosystem growth.*
 
 ## Contributing
