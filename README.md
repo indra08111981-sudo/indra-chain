@@ -18,10 +18,10 @@ Builder: indra_cfc | Crypto Fans Club
 - [Indra Chain Repo](https://github.com/indra08111981-sudo/indra-chain)
 
 ## Roadmap
-- Q2 2026: Launch Indra Chain testnet aligned with Canopy AI-native framework  
-- Q3 2026: Integrate Canopy campaign tracking, farming points, and progressive autonomy features  
-- Q4 2026: Expand documentation, contracts, and open community contributions in sync with Canopy ecosystem growth  
-- 2027: Explore sovereign L1 transition, multi-chain integration, and validator testing
+- Q2 2026: Launch Indra Chain testnet aligned with Canopy AI-native framework for faster and secure chain deployment  
+- Q3 2026: Integrate Canopy campaign tracking, farming points, and progressive autonomy (shared security → sovereign L1 transition)  
+- Q4 2026: Expand documentation, contracts, and open community contributions in sync with Canopy ecosystem and liquidity solutions  
+- 2027: Explore sovereign L1 transition, multi-chain integration (Solana, NEAR, BNB), validator testing, and scalability improvements
 
 ## Contributing
 We welcome contributions from the community and CFC team members.  
